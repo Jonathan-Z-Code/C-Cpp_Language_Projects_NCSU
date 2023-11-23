@@ -18,3 +18,8 @@ Creating structs to organize data
 Using file I/O in order to read and write .txt files
 
 Understanding how to write safe code in regards to user input 
+
+# What's next?
+ECE306 - Embedded Systems 
+
+(Hopefully I can upload source code of my autonomous vehicle to github after the semester is over)
