@@ -2,7 +2,7 @@
 Various C projects throughout my time at NCSU 
 
 # Notable Projects Include:
-*Four Operation Calculator*
+*Linked List Program*
 
 *Variable Array with Average_Value_Function*
 
