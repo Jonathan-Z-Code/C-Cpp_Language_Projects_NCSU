@@ -8,7 +8,7 @@ Various C projects throughout my time at NCSU
 
 *Blackjack Engine*
 
-# What I learned from ECE209
+# What I Learned From ECE209
 Manipulating pointers to create pass by reference functions
 
 Creating linked lists utilizing malloc and pointers
