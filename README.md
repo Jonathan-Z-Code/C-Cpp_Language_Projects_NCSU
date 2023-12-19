@@ -1,5 +1,5 @@
-# C-Language-Projects-NCSU
-Various C projects throughout my time at NCSU 
+# (C/C++)-Language-Projects-NCSU
+Various C/C++ projects throughout my time at NCSU 
 
 # Notable Projects Include:
 *Linked List Program*
